@@ -19,6 +19,7 @@ java_defaults {
 
     static_libs: [
         "androidx.media_media",
+        "TestParameterInjector",
         "androidx.test.ext.truth",
         "androidx.test.rules",
         "mockito-target",
